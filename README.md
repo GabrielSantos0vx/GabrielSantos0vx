@@ -1,4 +1,4 @@
-# Hi 👋, I'm Herbert Souza
+# Hi 👋, I'm Gabriel Santos
 
 🚀 **software engineering student | Java and Portugol**  
 🇧🇷 Brazil
