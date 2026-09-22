@@ -1,6 +1,6 @@
 # Hi 👋, I'm Gabriel Santos
 
-🚀 **software engineering student | Java and Portugol**  
+🚀 **software engineering student | Java**  
 🇧🇷 Brazil
 
 I'm building my foundation in **software development**, learning **Java** through hands-on projects and strengthening my **math and problem-solving skills**.
